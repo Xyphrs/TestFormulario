@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108543229275",
+    "project_id": "testformulario-7f357",
+    "storage_bucket": "testformulario-7f357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108543229275:android:f27489de538d5d653e2e7e",
+        "android_client_info": {
+          "package_name": "com.example.testformulario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108543229275-p139c4nb9fpaf0ncdv6orokl5v2bgnb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testformulario",
+            "certificate_hash": "c43f699a7cd0ad98c81c02baf4e2e208aaa1f45b"
+          }
+        },
+        {
+          "client_id": "108543229275-sak3uctu9u09fubc2m0oqdqqup8pgc58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrvdqt-P2SG6TQ2zKppqI5gNZ56l4K5Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108543229275-sak3uctu9u09fubc2m0oqdqqup8pgc58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestFormulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="datos">ENVIAR DATOS</string>
+    <string name="asunto">Asunto</string>
+    <string name="contenido">Contenido</string>
+</resources>
